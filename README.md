@@ -4,7 +4,8 @@ Check out http://TalesofEterniaonline.com for more information right now.
 In progress currently, While this may be impossible im trying the best I can. Was a very long process to even acquire the rare retail disc from Japan. But already good progress down to at least perserve the files in the game.
  - Currently the Downloader has been translated and Recreated by me in VB.
  - Game Installer has been packaged and setup from the orginal files.
-   ![Downloader](http://talesofeterniaonline.com/GitHub/downloader.jpg)
+ 
+   ![Downloader](http://talesofeterniaonline.com/github/downloader.jpg)
  - Files stripped from game, Like Images, Music, Videos etc..
  - Website has been recreated and hooke properly (besides a couple) from waybackmachine.
 
