@@ -7,11 +7,10 @@ In progress currently, While this may be impossible im trying the best I can. Wa
  
    ![Patcher](http://talesofeterniaonline.com/github/downloader1.jpg)
  - Files stripped from game, Like Images, Music, Videos etc..
-  - File Dumped and Released for preseving great music
- - Website has been recreated and hooke properly (besides a couple) from waybackmachine.
+ - Website has been recreated and hooked properly (besides a couple) from waybackmachine.
 
 There will be a couple seprate repo for the work.
 
 Disclaimer:
- - This is in efforts to preserve a long dead game that was only open 1 year. While very few know this game exsist. The rights, TOEO, and Tales of Eternia Online belong to Namco Bandai. 
+- This is in efforts to preserve a long dead game that was only open 1 year. While very few know this game exsist. The rights, TOEO, and     Tales of Eternia Online belong to Namco Bandai. 
 - Just doing what I can to have this game in some way avaliable. 
