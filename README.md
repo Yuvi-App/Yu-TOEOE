@@ -7,6 +7,7 @@ In progress currently, While this may be impossible im trying the best I can. Wa
  
    ![Downloader](http://talesofeterniaonline.com/github/downloader.jpg)
  - Files stripped from game, Like Images, Music, Videos etc..
+  - File Dumped and Released for preseving great music
  - Website has been recreated and hooke properly (besides a couple) from waybackmachine.
 
 There will be a couple seprate repo for the work.
