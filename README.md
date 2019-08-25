@@ -5,7 +5,7 @@ In progress currently, While this may be impossible im trying the best I can. Wa
  - Currently the Downloader has been translated and Recreated by me in VB.
  - Game Installer has been packaged and setup from the orginal files.
  
-   ![Downloader](http://talesofeterniaonline.com/github/downloader.jpg)
+   ![Patcher](http://talesofeterniaonline.com/github/downloader.jpg)
  - Files stripped from game, Like Images, Music, Videos etc..
   - File Dumped and Released for preseving great music
  - Website has been recreated and hooke properly (besides a couple) from waybackmachine.
