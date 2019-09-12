@@ -1,0 +1,22 @@
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\bin\Debug\TalesofEterniaOnline - Downloader.exe
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\bin\Debug\TalesofEterniaOnline - Downloader.pdb
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\bin\Debug\TalesofEterniaOnline - Downloader.xml
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline___Downloader.Form1.resources
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline___Downloader.Resources.resources
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.vbproj.GenerateResource.cache
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.exe
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.xml
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.pdb
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.vbprojAssemblyReference.cache
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\bin\Debug\TalesofEterniaOnline - Downloader.exe
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\bin\Debug\TalesofEterniaOnline - Downloader.pdb
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\bin\Debug\TalesofEterniaOnline - Downloader.xml
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.vbprojAssemblyReference.cache
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline___Downloader.Form1.resources
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline___Downloader.Resources.resources
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.vbproj.GenerateResource.cache
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.vbproj.CoreCompileInputs.cache
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.exe
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.xml
+I:\Projects\VS Source Code\TalesofEterniaOnline - Downloader\obj\Debug\TalesofEterniaOnline - Downloader.pdb

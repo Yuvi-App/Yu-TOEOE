@@ -12,6 +12,9 @@ In progress currently, While this may be impossible im trying the best I can. Wa
 
 There will be a couple seprate repo for the work.
 
+More information at http://talesofeterniaonline.com/2019/08/post_396.html
+
+
 Disclaimer:
 - This is in efforts to preserve a long dead game that was only open 1 year. While very few know this game exsist. The rights, TOEO, and     Tales of Eternia Online belong to Namco Bandai. 
 - Just doing what I can to have this game in some way avaliable. 

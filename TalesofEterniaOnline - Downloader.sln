@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TalesofEterniaOnline - Downloader", "TalesofEterniaOnline - Downloader.vbproj", "{EE847E9F-BD80-40EE-881B-C19213BD24B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE847E9F-BD80-40EE-881B-C19213BD24B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE847E9F-BD80-40EE-881B-C19213BD24B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE847E9F-BD80-40EE-881B-C19213BD24B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE847E9F-BD80-40EE-881B-C19213BD24B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2B83DB-79CA-4D2C-9508-82D664244A13}
+	EndGlobalSection
+EndGlobal

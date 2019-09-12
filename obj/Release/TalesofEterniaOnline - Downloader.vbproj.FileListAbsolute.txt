@@ -1,0 +1,10 @@
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\bin\Release\TalesofEterniaOnline - Downloader.exe
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\bin\Release\TalesofEterniaOnline - Downloader.pdb
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\bin\Release\TalesofEterniaOnline - Downloader.xml
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Release\TalesofEterniaOnline___Downloader.Form1.resources
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Release\TalesofEterniaOnline___Downloader.Resources.resources
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Release\TalesofEterniaOnline - Downloader.vbproj.GenerateResource.cache
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Release\TalesofEterniaOnline - Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Release\TalesofEterniaOnline - Downloader.exe
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Release\TalesofEterniaOnline - Downloader.xml
+C:\Users\pratherr\Source\repos\App2.Core\TalesofEterniaOnline - Downloader\obj\Release\TalesofEterniaOnline - Downloader.pdb
